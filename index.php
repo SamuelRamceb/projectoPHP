@@ -9,7 +9,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="./css/materialize.css">
     <!--Import Google Icon Font-->
-    <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined" rel="stylesheet">
     <!-- Js -->
     <script src="./js/materialize.js"></script>
     <title>Ejercicio 7</title>

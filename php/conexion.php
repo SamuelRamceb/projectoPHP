@@ -31,7 +31,7 @@ function exists($columna, $dato, $conexion)
 function mostrarUsuarios($conexion)
 {
     $usuarios = executeQueryArray("select * from usuarios", $conexion);
-    echo '<table class="highlight" border="1"><tr><th colspan="' . sizeof($usuarios[0]) . '">Usuarios</th></tr>';
+    echo '<table class="highlight" border="1">';
     echo "<tr>";
     foreach ($usuarios[0] as $clave => $valor) {
         echo '<th>' . $clave . '</th>';

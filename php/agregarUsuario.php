@@ -32,7 +32,7 @@
                 </div>
             </div>
             <div class="row">
-                <div input-field col s10>
+                <div class="input-field col s12">
                     <i class="material-icons-outlined prefix">email</i>
                     <input class="validate" type="email" name="mail" id="mail" required minlength="1" maxlength="100" pattern="[\w.%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}$">
                     <label for="mail">Correo</label>
